@@ -19,9 +19,19 @@ It is not the same "Vanilla JS", but its the next best thing if you want to rema
 
 ## Why?
 
-I tend to do this in all my projects. Given recent NPM scandals its clear that other people could use some help too. So this work will benefit others. 
+Given recent NPM scandals its clear that a change in philosophy could help many people. So this work will benefit others. 
  
 - **Security**: 
-- **Performance**: 
+- **Performance**: Less bloat means faster build times, faster deploy times, lower memory usage.
 - **Stability**: 
+
+# Server Frameworks
+
+# Front-end Frameworks
+
+# Testing tools
+
+# 
+
+# Datetime Libraries
 
