@@ -25,13 +25,16 @@ Given recent NPM scandals its clear that a change in philosophy could help many 
 - **Performance**: Less bloat means faster build times, faster deploy times, lower memory usage.
 - **Stability**: 
 
+## Dev Dependecies
+
 # Server Frameworks
 
 # Front-end Frameworks
 
 # Testing tools
 
-# 
+# Build Tools
+
+# Template Libraries
 
 # Datetime Libraries
-
