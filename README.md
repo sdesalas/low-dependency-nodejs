@@ -21,3 +21,7 @@ It is not the same "Vanilla JS", but its the next best thing if you want to rema
 
 I tend to do this in all my projects. Given recent NPM scandals its clear that other people could use some help too. So this work will benefit others. 
  
+- **Security**: 
+- **Performance**: 
+- **Stability**: 
+
